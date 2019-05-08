@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfaceCalculatorHost", "SurfaceCalculatorHost\SurfaceCalculatorHost.csproj", "{5FBED242-B61A-48FC-87AC-CECD3896B7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfaceCalculatorLib", "SurfaceCalculatorLib\SurfaceCalculatorLib.csproj", "{744CC196-6C3B-4041-BA5A-B0BEAA30F541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfaceCalculatorClient", "SurfaceCalculatorClient\SurfaceCalculatorClient.csproj", "{9B8FD77F-0AC0-4D03-98CC-CB0406ED5A25}"
+	ProjectSection(ProjectDependencies) = postProject
+		{744CC196-6C3B-4041-BA5A-B0BEAA30F541} = {744CC196-6C3B-4041-BA5A-B0BEAA30F541}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SurfaceCalculatorService(2)", "SurfaceCalculatorService\", "{BB0F1A22-5BE0-43E3-8412-18F08A3BFDD8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{744cc196-6c3b-4041-ba5a-b0beaa30f541}|SurfaceCalculatorLib.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58380"
+		Debug.AspNetCompiler.PhysicalPath = "SurfaceCalculatorService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58380\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58380"
+		Release.AspNetCompiler.PhysicalPath = "SurfaceCalculatorService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58380\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58380"
+		SlnRelativePath = "SurfaceCalculatorService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{744CC196-6C3B-4041-BA5A-B0BEAA30F541} = {744CC196-6C3B-4041-BA5A-B0BEAA30F541}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FBED242-B61A-48FC-87AC-CECD3896B7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBED242-B61A-48FC-87AC-CECD3896B7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBED242-B61A-48FC-87AC-CECD3896B7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBED242-B61A-48FC-87AC-CECD3896B7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744CC196-6C3B-4041-BA5A-B0BEAA30F541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744CC196-6C3B-4041-BA5A-B0BEAA30F541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744CC196-6C3B-4041-BA5A-B0BEAA30F541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744CC196-6C3B-4041-BA5A-B0BEAA30F541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8FD77F-0AC0-4D03-98CC-CB0406ED5A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8FD77F-0AC0-4D03-98CC-CB0406ED5A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8FD77F-0AC0-4D03-98CC-CB0406ED5A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8FD77F-0AC0-4D03-98CC-CB0406ED5A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0F1A22-5BE0-43E3-8412-18F08A3BFDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F1A22-5BE0-43E3-8412-18F08A3BFDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0F1A22-5BE0-43E3-8412-18F08A3BFDD8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0F1A22-5BE0-43E3-8412-18F08A3BFDD8}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19787739-5245-487C-9145-EB90FCD64054}
+	EndGlobalSection
+EndGlobal

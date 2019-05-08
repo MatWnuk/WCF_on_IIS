@@ -1,0 +1,11 @@
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\bin\Debug\SurfaceCalculatorHost.exe.config
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\bin\Debug\SurfaceCalculatorHost.exe
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\bin\Debug\SurfaceCalculatorHost.pdb
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\bin\Debug\SurfaceCalculatorLib.dll
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\bin\Debug\SurfaceCalculatorLib.pdb
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\bin\Debug\SurfaceCalculatorLib.dll.config
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\obj\Debug\SurfaceCalculatorHost.csprojAssemblyReference.cache
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\obj\Debug\SurfaceCalculatorHost.csproj.CoreCompileInputs.cache
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\obj\Debug\SurfaceCalculatorHost.csproj.CopyComplete
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\obj\Debug\SurfaceCalculatorHost.exe
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorHost\obj\Debug\SurfaceCalculatorHost.pdb

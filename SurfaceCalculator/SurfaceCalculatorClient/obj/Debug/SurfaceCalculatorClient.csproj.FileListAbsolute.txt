@@ -1,0 +1,7 @@
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorClient\bin\Debug\SurfaceCalculatorClient.exe.config
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorClient\bin\Debug\SurfaceCalculatorClient.exe
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorClient\bin\Debug\SurfaceCalculatorClient.pdb
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorClient\obj\Debug\SurfaceCalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorClient\obj\Debug\SurfaceCalculatorClient.exe
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorClient\obj\Debug\SurfaceCalculatorClient.pdb
+C:\Users\mateuszwnuk\Desktop\SurfaceCalculator\SurfaceCalculatorClient\obj\Debug\SurfaceCalculatorClient.csprojAssemblyReference.cache
